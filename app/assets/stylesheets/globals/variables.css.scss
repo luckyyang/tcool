@@ -1,0 +1,19 @@
+// Let's use KSS attempts to write maintainable, documented CSS
+// A button suitable for giving stars to someone.
+//
+// :hover             - Subtle hover highlight.
+// .stars-given       - A highlight indicating you've already given a star.
+// .stars-given:hover - Subtle hover highlight on top of stars-given styling.
+// .disabled          - Dims the button to indicate it cannot be used.
+// 
+// Styleguide 2.1.3.
+
+//describable ones
+$light-gray: #ececec;
+$font-gray: rgb(102, 102, 102);
+$light-blue: #7ac9de;
+
+//
+$background-green: #529f86;
+$link-green: #008C7E; /* http://www.sunshine-library.org/q-a/ */
+
