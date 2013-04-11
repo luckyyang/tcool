@@ -7,7 +7,7 @@ haoqicat.com 图cool
 
 #### Q：tcool项目是做什么用的？
 
-tcool是用来展示haoqicat.com的吉祥物好奇猫的一个站点。
+tcool是用来展示[好奇猫](http://haoqicat.com)的吉祥物好奇猫的一个站点。
 
 #### Q：好奇猫的图片从哪里来？
 
