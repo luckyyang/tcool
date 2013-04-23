@@ -18,7 +18,7 @@ height:350px;
 float:left;
 list-style:none;
 font-size:12px;
-font-family: 'Arial','宋体';
+font-family: 'Arial','微软雅黑';
 color:#555;
 }
 
@@ -33,4 +33,19 @@ border: 1px solid #777;
 -webkit-box-shadow: 0 8px 6px -6px black;
      -moz-box-shadow: 0 8px 6px -6px black;
           box-shadow: 0 8px 6px -6px black;
+}
+
+#img-list div{
+width:250px;height:180px;
+padding-top:70px;
+margin: 20px 20px 20px 20px;
+border: 1px solid #777;
+position:absolute;
+background-color: #000;
+color:#fff;
+font-size: 18px;
+display:none;
+}
+#img-list div p{
+margin-top:20px;
 }

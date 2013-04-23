@@ -15,15 +15,31 @@
       </h1>
       <ul id="img-list">
         <li>
+		<div>
+			<p>作者：Elsa</p>
+			<p>上传时间：2013-04-11</p>
+		</div>
         <img class="img-item" src="img/haoqi.jpg" data-author='Elsa Zhang' data-time='2013-4-11'/>
         </li>
         <li>
+				<div>
+			<p>作者：Elsa</p>
+			<p>上传时间：2013-04-11</p>
+		</div>
         <img class="img-item" src="img/bigeye.png" data-author='Elsa Zhang' data-time='2013-4-11'/>
         </li>
         <li>
+				<div>
+			<p>作者：Elsa</p>
+			<p>上传时间：2013-04-11</p>
+		</div>
         <img class="img-item" src="img/mimi.png" data-author='Elsa Zhang' data-time='2013-4-11'/>
         </li>
         <li>
+				<div>
+			<p>作者：Elsa</p>
+			<p>上传时间：2013-04-11</p>
+		</div>
         <img class="img-item" src="img/maomao.png"  data-author='Elsa Zhang' data-time='2013-4-11'/>
         </li>
       </ul>
