@@ -35,3 +35,29 @@ border: 1px solid #777;
           box-shadow: 0 8px 6px -6px black;
 }
 
+#img-list li{
+position: relative;
+overflow: hidden;
+}
+#img-list li div{
+display: none;
+}
+#img-list li:hover div{
+position:absolute;
+width:250px;height:0;
+background-color: #444;
+margin: 20px;
+padding-top:60px;
+border: 1px solid #777;
+opacity: 0.9;
+display: block;
+}
+#img-list li:hover div p{
+margin-top:20px;
+font-size: 20px;
+color: #ddd;
+}
+#img-list li:hover div p:last-child{
+font-size: 26px;
+color: #fff;
+}
