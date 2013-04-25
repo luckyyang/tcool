@@ -44,7 +44,7 @@ display: none;
 }
 #img-list li:hover div{
 position:absolute;
-width:250px;height:0;
+width:250px;height:190px;
 background-color: #444;
 margin: 20px;
 padding-top:60px;
